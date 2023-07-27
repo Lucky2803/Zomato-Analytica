@@ -1,0 +1,1 @@
+"Zomato Analytica: A data analytics project leveraging SQL to analyze user behavior, menu offerings, and delivery assignments in the Zomato database. It aims to derive valuable insights for the food delivery platform, enhancing the customer experience and optimizing revenue growth. # Zomato-Analytica
